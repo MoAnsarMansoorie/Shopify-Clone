@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/badge/Project-Shopify%20Clone-yellow)
 
-[Link of live project for view]()
+[Link of live project for view](https://shopifyclonepage.netlify.app/)
 
 ![View page](./landingpage.png)
 
